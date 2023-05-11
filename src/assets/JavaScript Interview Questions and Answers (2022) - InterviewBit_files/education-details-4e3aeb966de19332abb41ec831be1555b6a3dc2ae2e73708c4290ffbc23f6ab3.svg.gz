@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Graduation_Cap_Icon" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-3{stroke:#7973af;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:#e7e6f1}
+        </style>
+    </defs>
+    <path id="Rectangle_6553" fill="none" d="M0 0H40V40H0z"/>
+    <path id="Path_17326" fill="none" stroke="#7973af" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" d="M137.375 118.5V101L128 96" transform="translate(-100 -85.375)"/>
+    <path id="Path_17327" d="M62.375 110.933v7.815a1.141 1.141 0 0 1-.228.686 15.348 15.348 0 0 1-4.835 4.033 16.756 16.756 0 0 1-8.125 1.953 16.019 16.019 0 0 1-12.96-5.986 1.141 1.141 0 0 1-.228-.686v-7.815" class="cls-3" transform="translate(-29.187 -92.421)"/>
+    <path id="Path_17325" d="M8 42l18.75-10L45.5 42 26.75 52z" class="cls-3" transform="translate(-6.75 -27)"/>
+</svg>

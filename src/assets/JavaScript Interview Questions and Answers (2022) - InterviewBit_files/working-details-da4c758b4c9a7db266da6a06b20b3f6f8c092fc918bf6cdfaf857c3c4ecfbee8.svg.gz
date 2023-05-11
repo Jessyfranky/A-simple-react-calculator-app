@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Briefcase_Icon" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-3{fill:none;stroke:#007c6e;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Rectangle_6567" fill="none" d="M0 0H40V40H0z"/>
+    <rect id="Rectangle_6568" width="30" height="22.5" fill="#d5faf6" stroke="#007c6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" rx="3" transform="translate(5 11.25)"/>
+    <path id="Path_17330" d="M100.5 45v-2.5A2.5 2.5 0 0 0 98 40h-7.5a2.5 2.5 0 0 0-2.5 2.5V45" class="cls-3" transform="translate(-74.25 -33.75)"/>
+    <path id="Line_263" d="M0 0L30 0" class="cls-3" transform="translate(5 25)"/>
+    <path id="Line_264" d="M0 0L4 0" class="cls-3" transform="translate(18 21)"/>
+</svg>

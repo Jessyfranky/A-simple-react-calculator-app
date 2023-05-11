@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Wave_Icon" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-4{fill:none}.cls-3{fill:#d1ecff}.cls-3,.cls-4{stroke:#008aff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Rectangle_6543" fill="none" d="M0 0H40V40H0z"/>
+    <g id="Group_20218" transform="translate(5.317 4.903)">
+        <path id="Rectangle_6544" fill="#d1ecff" d="M0 0H17V14H0z" transform="translate(6.684 10.096)"/>
+        <path id="Path_17318" d="M95.792 43.107l-4.063-7.037a3.125 3.125 0 1 1 5.413-3.125l6.25 10.825" class="cls-3" transform="translate(-82.36 -31.382)"/>
+        <path id="Path_17319" d="M55.026 52.5l-5.937-10.286a3.125 3.125 0 0 1 5.411-3.125l5.313 9.2" class="cls-3" transform="translate(-46.382 -36.566)"/>
+        <path id="Path_17320" d="M52.773 79.276a6.25 6.25 0 0 1 2.288-8.538L53.5 68.032a3.125 3.125 0 1 1 5.413-3.125l3.125 5.413a12.5 12.5 0 1 1-21.651 12.5l-5.94-10.284a3.125 3.125 0 1 1 5.413-3.125l2.813 4.871" class="cls-3" transform="translate(-34.028 -58.35)"/>
+    </g>
+    <path id="Path_17321" d="M53.171 209.618A17.43 17.43 0 0 1 48 203.991" class="cls-4" transform="translate(-40.5 -172.117)"/>
+    <path id="Path_17322" d="M176 31a8.121 8.121 0 0 1 7.036 4.064" class="cls-4" transform="translate(-148.5 -26.156)"/>
+</svg>

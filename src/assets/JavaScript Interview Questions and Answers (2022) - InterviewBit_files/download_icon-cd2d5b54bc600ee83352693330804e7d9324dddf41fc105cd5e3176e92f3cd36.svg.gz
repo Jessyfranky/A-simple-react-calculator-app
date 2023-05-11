@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Download" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Rectangle_5812" fill="none" d="M0 0H24V24H0z"/>
+    <path id="Path_17183" d="M86 110.011l4.019 4.018 4.019-4.018" class="cls-2" transform="translate(-77.77 -99.483)"/>
+    <path id="Line_231" d="M0 0L0 10.716" class="cls-2" transform="translate(12.25 3.828)"/>
+    <path id="Path_17184" d="M56.843 152v5.359a.766.766 0 0 1-.766.766H40.766a.766.766 0 0 1-.766-.766V152" class="cls-2" transform="translate(-36.172 -137.454)"/>
+</svg>

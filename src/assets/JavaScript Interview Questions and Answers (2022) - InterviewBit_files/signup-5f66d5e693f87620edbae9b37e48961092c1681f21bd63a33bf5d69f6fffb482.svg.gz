@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Login" width="49" height="49" viewBox="0 0 49 49">
+    <defs>
+        <style>
+            .cls-3{fill:none;stroke:#ffb52b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Rectangle_5716" fill="none" d="M0 0H49V49H0z"/>
+    <path id="Path_17261" fill="#ffe6bd" stroke="#ffb52b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" d="M136 40h10.719a1.531 1.531 0 0 1 1.531 1.531v30.625a1.531 1.531 0 0 1-1.531 1.531H136" transform="translate(-109.969 -32.344)"/>
+    <path id="Path_17260" d="M94.011 102.078l8.037-8.039L94.011 86" class="cls-3" transform="translate(-76.017 -69.539)"/>
+    <path id="Line_245" d="M0 0L21.432 0" class="cls-3" transform="translate(4.594 24.5)"/>
+</svg>
